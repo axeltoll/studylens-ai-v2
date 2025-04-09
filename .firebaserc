@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "insightlens-ai"
+  },
+  "targets": {
+    "insightlens-ai": {
+      "hosting": {
+        "main": [
+          "studylensai-com"
+        ],
+        "placeholder": [
+          "insightlens-ai"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

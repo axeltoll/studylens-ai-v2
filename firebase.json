@@ -1,0 +1,25 @@
+{
+  "hosting": [
+    {
+      "target": "main",
+      "public": "public",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/dashboard/index.html"
+        }
+      ],
+      "frameworksBackend": {
+        "region": "us-central1"
+      }
+    }
+  ],
+  "storage": {
+    "rules": "storage.rules"
+  }
+} 
