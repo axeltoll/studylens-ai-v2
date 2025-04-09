@@ -1,0 +1,13 @@
+In a real project, this directory would contain learning platform logo images:
+- moodle.png
+- blackboard.png
+- canvas.png
+- d2l.png
+- google-classroom.png
+- schoology.png
+- khan-academy.png
+- tophat.png
+- classmarker.png
+- exam.png
+
+These would be actual image files representing each learning platform. 

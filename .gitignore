@@ -1,0 +1,58 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# large binary files
+**/next-swc.win32-x64-msvc.node
+**/*.node
+**/functions/node_modules/
+**/functions/node_modules/**/*
+functions/node_modules/
+functions/node_modules/@next/swc-win32-x64-msvc/
+functions/node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+.env
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# Firebase
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+
+# Large files
+.next/cache/webpack/
+functions/node_modules/
+node_modules/@next/.swc/
+node_modules/@next/swc/

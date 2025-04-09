@@ -1,0 +1,9 @@
+In a real project, this directory would contain avatar images:
+- avatar1.jpg
+- avatar2.jpg
+- avatar3.jpg
+- avatar4.jpg
+- avatar5.jpg
+- avatar6.jpg
+
+These would be actual profile images of students providing testimonials. 

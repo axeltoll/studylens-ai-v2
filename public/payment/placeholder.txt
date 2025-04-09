@@ -1,0 +1,10 @@
+In a real project, this directory would contain payment method logo images:
+- visa.png
+- mastercard.png
+- amex.png
+- discover.png
+- paypal.png
+- applepay.png
+- gpay.png
+
+These would be actual image files representing each payment method. 

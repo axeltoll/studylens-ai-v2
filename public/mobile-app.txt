@@ -1,0 +1,1 @@
+This file represents a placeholder for the mobile-app.webp image that would show the StudyLens AI mobile app interface. In a real project, this would be a high-quality image of a mobile device displaying the app's scanning and solving features. 

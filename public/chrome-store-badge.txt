@@ -1,0 +1,1 @@
+This file represents a placeholder for the chrome-store-badge.png image. In a real project, this would be the official Chrome Web Store download badge. 

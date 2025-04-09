@@ -1,0 +1,1 @@
+This file represents a placeholder for the hero-dashboard.webp image that would show the StudyLens AI Homework Helper interface. In a real project, this would be a high-quality screenshot or mockup of the application's dashboard showing various features like AI chat, problem solving, and explanations. 
